@@ -6,10 +6,20 @@
 }
 
 body{
- background-color: darkred;
+ background-color: #015A84;
  color: white;
  font-family: 'Courier New', Courier, monospace; 
  justify-items: center;
  align-items: center;   
 }
 
+img{
+    border: 5px solid white;
+    box-shadow: 0 0 15px white, 0 0 30px Gold, 0 0 45px Gold, 0 0 60px Gold;    
+    border-radius: 10px;
+}
+video{
+    border: 5px solid white;
+    box-shadow: 0 0 15px white, 0 0 30px Gold, 0 0 45px Gold, 0 0 60px Gold;    
+    border-radius: 10px;
+}
